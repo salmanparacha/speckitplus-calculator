@@ -1,5 +1,7 @@
-# Study Notes Project
 
+CLAUDE must never ask for feedback. 
+
+# Study Notes Project
 ## Purpose
 Create and organize study materials with professional structure and quality.
 
