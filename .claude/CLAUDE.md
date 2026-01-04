@@ -1,0 +1,1 @@
+follow guidelines in @AGENTS.md
