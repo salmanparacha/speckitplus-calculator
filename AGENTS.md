@@ -1,6 +1,6 @@
 
 CLAUDE must never ask for feedback. 
-
+use python3 instead of python
 # Study Notes Project
 ## Purpose
 Create and organize study materials with professional structure and quality.
