@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'Welcome to your project! Claude Code session started.'"
+            "command": "echo \"Project: $(basename $(pwd)) | Files: $(ls -1 | wc -l) | Last modified: $(ls -lt | head -2 | tail -1 | awk '{print \\$6, \\$7, \\$8}')\""
           }
         ]
       }
