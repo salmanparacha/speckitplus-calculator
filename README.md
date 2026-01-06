@@ -8,6 +8,9 @@ A professional calculator implementation providing core arithmetic operations an
 ## Project Structure
 - `/src/` - Core calculator implementation logic
 - `/test/` - Test suites and verification files
+- `/specs/` - Feature specifications, research, and documentation
+- `/.specify/` - SpecKit Plus workflow configuration, templates, and scripts
+- `/.claude/commands/` - Custom SpecKit Plus CLI commands
 
 ## Setup
 1. Clone the repository
