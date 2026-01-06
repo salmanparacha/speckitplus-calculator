@@ -1,27 +1,20 @@
 # Speckitplus Calculator
 
-A professional calculator implementation for the Speckitplus project.
+This project was created using **Speckit Plus**.
 
 ## Overview
-This calculator provides core arithmetic operations and advanced calculation features designed for accuracy and high-performance in learning environments.
+A professional calculator implementation providing core arithmetic operations and advanced calculation features.
 
-## Features
-- Basic arithmetic (Addition, Subtraction, Multiplication, Division)
-- Support for complex expressions
-- Professional learning structure integration
+## Project Structure
+- `/src/` - Core calculator implementation logic
+- `/test/` - Test suites and verification files
 
 ## Setup
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Run or test the calculator
-
-## Project Structure
-- `/lessons/` - Source learning materials
-- `/notes/` - Subject/topic documentation
-- `/flashcard/` - Flashcards for memorization
-- `/quiz/` - Assessments and evaluations
+3. Run tests using your preferred test runner in the `/test/` directory
 
 ## References
-Citations and documentation follow the guidelines in the `AGENTS.md` and `CLAUDE.md` files.
+Documentation follows the guidelines in the `AGENTS.md` and `CLAUDE.md` files.
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
